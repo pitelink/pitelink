@@ -31,3 +31,9 @@
 
 - Email: [pitelink@outlook.com](mailto:pitelink@outlook.com)
 - 坐标：上海 Shanghai
+
+<p align="center">
+  <img src="wechat_qrcode.png" width="220" alt="公众号二维码" />
+  <br/>
+  <b>👀 关注我的公众号，获取更多技术美术 / DCC 工具链实战分享</b>
+</p>
