@@ -23,7 +23,6 @@
 ## 📦 代表开源
 
 - [dcc-debug](https://github.com/pitelink/dcc-debug) — Agent 调试 MotionBuilder / 3ds Max 的运行时注入工具
-- [my-ai-skills](https://github.com/pitelink/my-ai-skills) — 个人 AI 技能库：DCC 领域经验 Skill 化沉淀
 
 ---
 
